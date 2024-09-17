@@ -51,14 +51,6 @@ A full-stack eCommerce application built with React and Spring Boot And . The pr
   - Spring Data JPA: Database access and ORM tool.
   - MySQL : Database to store application data.
 
-## Installation
-
-1. Clone Frontend repository: `git clone https://github.com/ashok0001/e-commerce-server.git`
-2. Clone Backend Repository: `git clone https://github.com/ashok0001/e-commerce-server.git`
-3. Change directory Frontend:`cd shopwithzosh`
-4. Change directory Backend: `cd e-commerce-server`
-5. Install frontend dependencies: `npm install`
-6. Install backend dependencies
 
 ## Usage
 
